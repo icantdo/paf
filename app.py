@@ -31,6 +31,12 @@ OSINT_CHALLENGES = [
         "fragment": "GhkYXkg",
     },
     {
+        "type": "text",
+        "question": "Kime poe 2 borcun var",
+        "answer": "Başaran",
+        "fragment": "GhkYXkg",
+    },
+    {
         "type": "audio",
         "file": "assets/audio1.mp3",
         "question": "Bu müziğin ismi",
