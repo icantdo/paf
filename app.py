@@ -34,14 +34,14 @@ OSINT_CHALLENGES = [
         "type": "text",
         "question": "En iyi baba kimede",
         "answer": "Başaran",
-        "fragment": "GhkYXkg",
+        "fragment": "UGFm",
     },
     {
         "type": "audio",
         "file": "assets/audio1.mp3",
         "question": "Bu müziğin ismi",
         "answer": "coins",
-        "fragment": "UGFmIQ==",
+        "fragment": "IQ==",
     },
 ]
 # Fragments join to: "SGFwcHkgQmlydGhkYXkgUGFmIQ==" -> "Happy Birthday bro!"
