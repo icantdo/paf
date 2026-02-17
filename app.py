@@ -32,7 +32,7 @@ OSINT_CHALLENGES = [
     },
     {
         "type": "text",
-        "question": "Kime poe 2 borcun var",
+        "question": "En iyi baba kimede",
         "answer": "Başaran",
         "fragment": "GhkYXkg",
     },
